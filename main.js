@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        淘宝&天猫一键好评
 // @description 淘宝&天猫评价页面添加一键好评按钮
-// @version     1.5.4
+// @version     1.5.5
 // @author      JoJunIori
 // @namespace   747215879@qq.com
 // @grant       unsafeWindow
